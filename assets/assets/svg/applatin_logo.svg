@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="48" viewBox="0 0 162 48">
+  <g id="logo" transform="translate(45.5 -1)">
+    <g id="g19" transform="translate(68.5 1)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="24" cy="24" r="24" transform="translate(0)" fill="#00cb6c"/>
+      <path id="Path_1433" data-name="Path 1433" d="M67.69,97.757A2.56,2.56,0,0,1,70.151,96h19.33a2.56,2.56,0,0,1,2.461,1.757l3.69,9.665V120.6a1.763,1.763,0,0,1-1.757,1.757H92.117a1.763,1.763,0,0,1-1.757-1.757v-.879H69.272v.879a1.763,1.763,0,0,1-1.757,1.757H65.757A1.763,1.763,0,0,1,64,120.6v-13.18Zm21.791,16.694a2.636,2.636,0,1,0-2.636-2.636A2.589,2.589,0,0,0,89.481,114.452Zm-19.33,0a2.636,2.636,0,1,0-2.636-2.636A2.589,2.589,0,0,0,70.151,114.452Zm21.966-8.786-2.636-7.029H70.151l-2.636,7.029Z" transform="translate(-55.816 -85.18)" fill="#fff"/>
+    </g>
+    <text id="Applatin" transform="translate(60.5 35)" fill="#00cb6c" font-size="29" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="-105" y="0">Applatin</tspan></text>
+  </g>
+</svg>
